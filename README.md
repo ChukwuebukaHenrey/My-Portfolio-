@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Chukwuebuka Henry — Portfolio
 
-# Run and deploy your AI Studio app
+Personal portfolio site built with React, TypeScript, and Vite.
 
-This contains everything you need to run your app locally.
+**Live:** https://my-portfolio-ebuka.vercel.app
 
-View your app in AI Studio: https://ai.studio/apps/42864182-b490-4a87-a9af-30e10cba6cab
+---
 
-## Run Locally
+## Stack
 
-**Prerequisites:**  Node.js
+- React + TypeScript
+- Vite
+- CSS
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Running Locally
+
+**Prerequisites:** Node.js
+
+```bash
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
+```
+
+---
+
+## Projects Featured
+
+- **CredChain** — Blockchain-based credential verification platform. Frontend lead on a four-person team. Built with React; covers three user role portals (Candidate, Issuer, Verifier).
+- **GrantBase** — Opportunity discovery platform for Nigerian university students aggregating scholarships, grants, internships, and fellowships. React + Vite + TypeScript + Tailwind, Supabase backend.
+- **Wisedrop** — Peer-to-peer academic resource sharing platform for Nigerian university students. React, Supabase (15-table schema), Gemini AI integration.
+
+---
+
+## Contact
+
+- Email: ebukahlove@gmail.com
+- GitHub: [ChukwuebukaHenrey](https://github.com/ChukwuebukaHenrey)
+- LinkedIn: [Chukwuebuka Henry](https://www.linkedin.com/in/chukwuebuka-henry-b1264625b)
